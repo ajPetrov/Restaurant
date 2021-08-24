@@ -1,6 +1,6 @@
 # Restaurant
 
-C# App that represents a restaurant system.
+C# App that represents a restaurant system. Used for educational purposes and exercising the factory design pattern.
 
 ** works in Bulgarian
 
